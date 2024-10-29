@@ -20,7 +20,7 @@ Côté dev:
 │   │   ├── difficile
 │   │   └── moyen
 │   └── web
-│       └── difficil
+│       └── difficile
 ```
 
 Côté cyber:
