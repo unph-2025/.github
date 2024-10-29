@@ -41,5 +41,7 @@ Côté cyber:
 │       └── moyen
 ```
 
+Pour les branches, chaque équipe gère à sa manière, le but étant d'avoir une branche `main` qui reste propre et qui pourra servir de source pour déployer la prod
+
 ## Liens utiles
 - [Listings challenges](https://docs.google.com/spreadsheets/d/1vQeG9cFPZCrXMdvMrFcuQytkhNRTSj4QDQOtzy7jYhg/edit)
