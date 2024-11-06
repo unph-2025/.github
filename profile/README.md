@@ -43,5 +43,7 @@ Côté cyber:
 
 Pour les branches, chaque équipe gère à sa manière, le but étant d'avoir une branche `main` qui reste propre et qui pourra servir de source pour déployer la prod
 
+Dans chaque repo d'équipe se trouve des dossiers avec les noms d'utilisateurs de l'équipe. Chaque membre peut donc pousser ses challs individuels dans son dossier attitré.
+
 ## Liens utiles
 - [Listings challenges](https://docs.google.com/spreadsheets/d/1vQeG9cFPZCrXMdvMrFcuQytkhNRTSj4QDQOtzy7jYhg/edit)
